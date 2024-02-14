@@ -8,5 +8,9 @@
 # purposes.  The copyright owner does not offer any warranties or representations, nor do
 # they accept any liabilities with respect to them.
 
+<<<<<<< HEAD
 master.banner.background = #C1FF72
+=======
+master.banner.background = #FFFBB2
+>>>>>>> branch 'master' of https://github.com/Manpalpin/Acme-SF-D01-24.1.0.git
 master.banner.alt = Acme SF, Inc.
