@@ -19,8 +19,9 @@
 <acme:menu-bar code="master.menu.home">
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
-			<acme:menu-suboption code="master.menu.anonymous.josbanbot-link" action="https://www.realbetisbalompie.es/club/estadio-benito-villamarin/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="http://www.example.com/"/>
+			<acme:menu-suboption code="master.menu.anonymous.josbanbot-link" action="https://www.realbetisbalompie.es/club/estadio-benito-villamarin/"/>
+			<acme:menu-suboption code="master.menu.anonymous.sonrusmor-link" action="https://www.nationalgeographic.es/animales/2021/09/los-pandas-salen-de-la-lista-de-especies-en-peligro-en-china-pero-la-amenaza-continua"/>
 			<acme:menu-suboption code="master.menu.anonymous.manpalpin-link" action="https://youtube.com/"/>
 		</acme:menu-option>
 
