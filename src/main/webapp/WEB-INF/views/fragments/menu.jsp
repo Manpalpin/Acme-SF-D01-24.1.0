@@ -24,6 +24,7 @@
 			<acme:menu-suboption code="master.menu.anonymous.sonrusmor-link" action="https://www.nationalgeographic.es/animales/2021/09/los-pandas-salen-de-la-lista-de-especies-en-peligro-en-china-pero-la-amenaza-continua"/>
 			<acme:menu-suboption code="master.menu.anonymous.manpalpin-link" action="https://youtube.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.javramnun-link" action="https://www.twitch.tv/illojuan"/>
+			<acme:menu-suboption code="master.menu.anonymous.rubpergar-link" action="https://www.hltv.org"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
